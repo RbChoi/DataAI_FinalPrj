@@ -1,0 +1,5 @@
+#FBF8EC
+#EDEAD9 beige
+#91888C 코코아색
+#333439 남색
+ear.png 200*202
