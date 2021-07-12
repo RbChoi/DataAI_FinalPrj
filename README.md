@@ -2,7 +2,7 @@
 
 ## 2020-데이터와인공지능
 ### 도울이
-<img width="90%" alt="https://user-images.githubusercontent.com/60884739/125277031-e7721d80-e34b-11eb-9f15-eca494083942.png">
+<img width="90%" src="https://user-images.githubusercontent.com/60884739/125277031-e7721d80-e34b-11eb-9f15-eca494083942.png">
 
 ## 더 자세히 프로젝트에 대한 설명을 읽고 싶다면?
 https://knock-ai.circle.so/c/showcase/ai-diMpg 
